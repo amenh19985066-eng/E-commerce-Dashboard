@@ -1,5 +1,4 @@
-حاضر، دعينّا نكتب ملف الـ **README** كاملاً من جديد بصيغة منظمة ومجهّزة للنسخ المباشر 📝. لقمتُ بإضافة قسم المعادلات وحسابات الـ **DAX** لنمو المبيعات (Growth Rate %) والمبيعات السابقة، مع تحديد أماكن الصور بدقة لتقومي بإدراجها.
-إليكِ النص المطور للمشروع:
+
 ```markdown
 # 📊 E-Commerce Business Performance Dashboard
 
@@ -56,11 +55,11 @@ To calculate the monthly sales and growth rates accurately, the following DAX me
 <img width="1612" height="848" alt="Screenshot 2026-06-28 181347" src="https://github.com/user-attachments/assets/3eab9730-e366-4dd1-a644-e56c1082405c" />
 <img width="1597" height="862" alt="Screenshot 2026-06-28 181401" src="https://github.com/user-attachments/assets/e3d55ac1-fa29-4499-b62d-54cd977c81d6" />
 
-*(اسحبي وأفلتي لقطة الشاشة النظيفة للصفحة الأولى هنا)*
+
 ### 2. Customers & Geography Page
 <img width="1658" height="831" alt="Screenshot 2026-06-28 181305" src="https://github.com/user-attachments/assets/24874f9a-eb9c-4d5b-ba35-f9364a4c8e37" />
 
-*(اسحبي وأفلتي لقطة الشاشة النظيفة للصفحة الثانية هنا)*
+
 ```
 
 ---
