@@ -62,6 +62,4 @@ To calculate the monthly sales and growth rates accurately, the following DAX me
 
 ```
 
-هل ترغبين في مراجعة طريقة رفع الصور وتضمينها داخل الموقع للتأكد من ظهورها بشكل صحيح؟ 💻👀
-
-```
+`
